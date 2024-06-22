@@ -1,7 +1,8 @@
 # Rain Prediction in Australia
 
 ## Project Scenario
-In this project, I have completed a notebook to build a classifier to predict whether there will be rain the following day. The project uses rainfall dataset from the Australian Government's Bureau of Meteorology. The data is cleaned and different classification algorithms are applied to the data. 
+In this project, I have completed a notebook to build a classifier to predict whether there will be rain the following day. The project uses rainfall dataset from the Australian Government's Bureau of Meteorology. The data is cleaned and different classification algorithms are applied to the data.\
+This project is a graded Honors Project of the [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) course by IBM.
 
 ## About the Dataset
 The original source of the data is Australian Government's Bureau of Meteorology and the latest data can be gathered from [http://www.bom.gov.au/climate/dwo/](http://www.bom.gov.au/climate/dwo/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkML0101ENSkillsNetwork20718538-2022-01-01).
